@@ -1,10 +1,5 @@
-[
 {
-  "roms": [
-    {
-      "name": "The King of Fighters 2002",
-      "file": "kof2002.zip"
-      "url": "https://SEU_ENDERECO/kof2002.zip"
-    }
-  ]
+  "kof2002": {
+    "download": "https://drewstriker.github.io/GGPO_Roms/Arcade Roms/kof2002.zip"
+  }
 }
